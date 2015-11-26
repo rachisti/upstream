@@ -19,3 +19,6 @@ Technologies web :
 - Wicket
 - Struts
 - JSF
+
+Application lourde :
+Technologie Swing
